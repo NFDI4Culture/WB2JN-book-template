@@ -1,0 +1,30 @@
+project:
+  type: book
+
+execute:
+  output: asis
+  echo: false
+
+book:
+  title: "deckenmalerei"
+  author: "Norah Jones"
+  date: "24.6.2025"
+  chapters:
+    - index.qmd
+    - Untitled-1.ipynb
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - solar
+  pdf:
+    documentclass: scrreprt
+
+
+
