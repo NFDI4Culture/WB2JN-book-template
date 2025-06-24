@@ -13,5 +13,8 @@
   },
   "references.qmd": {
     "references.html": "326e24d4"
+  },
+  "artworks_by_room.ipynb": {
+    "artworks_by_room.html": "5d3025b2"
   }
 }

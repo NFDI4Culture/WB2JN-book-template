@@ -7,14 +7,14 @@ execute:
 
 book:
   title: "deckenmalerei"
-  author: "Norah Jones"
-  date: "24.6.2025"
+  author: "ASKCR"
+  date: today
   chapters:
     - index.qmd
-    - Untitled-1.ipynb
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - artworks_by_room.ipynb
+  #  - intro.qmd
+  #  - summary.qmd
+  #  - references.qmd
 
 
 bibliography: references.bib
