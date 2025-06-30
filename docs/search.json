@@ -278,5 +278,15 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Die Räume</span>"
     ]
+  },
+  {
+    "objectID": "artworks_on_map.html",
+    "href": "artworks_on_map.html",
+    "title": "2  Karte",
+    "section": "",
+    "text": "[‘Schloßstraße 3, 86687, Leitheim, Bayern, Deutschland’, ‘Solitude 1, 70197, Stuttgart, Baden-Württemberg, Deutschland’, ‘Am Domänenhof, 21337, Lüneburg, Niedersachsen, Deutschland’, ‘Große Messergasse 6, 94032, Passau, Bayern, Deutschland’]\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Karte</span>"
+    ]
   }
 ]

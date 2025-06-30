@@ -13,6 +13,7 @@ book:
   chapters:
     - index.qmd
     - artworks_by_room.ipynb
+    - artworks_on_map.ipynb
   #  - intro.qmd
   #  - summary.qmd
   #  - references.qmd

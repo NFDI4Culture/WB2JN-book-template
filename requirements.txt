@@ -2,3 +2,5 @@
 SPARQLWrapper
 prettyprint
 quarto
+geopy
+folium
