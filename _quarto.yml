@@ -16,6 +16,7 @@ book:
   #  - intro.qmd
   #  - summary.qmd
   #  - references.qmd
+  downloads: [pdf]
 
 
 bibliography: references.bib
@@ -26,6 +27,17 @@ format:
       - solar
   pdf:
     documentclass: scrreprt
-
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+        \let\oldincludegraphics\includegraphics
+        \renewcommand{\includegraphics}[2][]{%
+          \oldincludegraphics[width=\linewidth,height=0.70\textheight,keepaspectratio,#1]{#2}%
+        }
+    include-after-body: 
+      text: |
+        \printindex
+    #keep-tex: true
 
 
