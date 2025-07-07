@@ -6,7 +6,8 @@ execute:
   output: asis
   echo: false
 
-book:
+book:  
+  language: de
   title: "deckenmalerei"
   author: "ASKCR"
   date: today
