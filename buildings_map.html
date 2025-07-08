@@ -3,13 +3,21 @@
 <head>
     
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
@@ -17,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_388862a4b30f8b1d9f2d870a05a3822a {
+                #map_11b2cb1ea6364cdceccda47a517f1f4f {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -26,51 +34,25 @@
                 }
                 .leaflet-container { font-size: 1rem; }
             </style>
-
-            <style>html, body {
-                width: 100%;
-                height: 100%;
-                margin: 0;
-                padding: 0;
-            }
-            </style>
-
-            <style>#map {
-                position:absolute;
-                top:0;
-                bottom:0;
-                right:0;
-                left:0;
-                }
-            </style>
-
-            <script>
-                L_NO_TOUCH = false;
-                L_DISABLE_3D = false;
-            </script>
-
         
 </head>
 <body>
     
     
-            <div class="folium-map" id="map_388862a4b30f8b1d9f2d870a05a3822a" ></div>
+            <div class="folium-map" id="map_11b2cb1ea6364cdceccda47a517f1f4f" ></div>
         
 </body>
 <script>
     
     
-            var map_388862a4b30f8b1d9f2d870a05a3822a = L.map(
-                "map_388862a4b30f8b1d9f2d870a05a3822a",
+            var map_11b2cb1ea6364cdceccda47a517f1f4f = L.map(
+                "map_11b2cb1ea6364cdceccda47a517f1f4f",
                 {
-                    center: [49.840958825, 10.9635739],
+                    center: [49.20726501666667, 11.199709866666666],
                     crs: L.CRS.EPSG3857,
-                    ...{
-  "zoom": 6,
-  "zoomControl": true,
-  "preferCanvas": false,
-}
-
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
                 }
             );
 
@@ -78,159 +60,186 @@
 
         
     
-            var tile_layer_d7d73a660768aa6705926d0f08b2dd62 = L.tileLayer(
+            var tile_layer_9cb32720070373d5a549a594a2083e3f = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {
-  "minZoom": 0,
-  "maxZoom": 19,
-  "maxNativeZoom": 19,
-  "noWrap": false,
-  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
-  "subdomains": "abc",
-  "detectRetina": false,
-  "tms": false,
-  "opacity": 1,
-}
-
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             );
         
     
-            tile_layer_d7d73a660768aa6705926d0f08b2dd62.addTo(map_388862a4b30f8b1d9f2d870a05a3822a);
+            tile_layer_9cb32720070373d5a549a594a2083e3f.addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
         
     
-            var marker_f6cfd35516662dc18b6332b6bb3e108e = L.marker(
+            var marker_2981236660da117aba3fe28fb272f46b = L.marker(
                 [48.7419104, 10.8833479],
-                {
-}
-            ).addTo(map_388862a4b30f8b1d9f2d870a05a3822a);
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
         
     
-        var popup_a6396b0de054a125313247d2502c6785 = L.popup({
-  "maxWidth": "100%",
-});
+        var popup_cb46b6e1a6fd3b724d2cd41137567a6c = L.popup({"maxWidth": "100%"});
 
         
             
-                var html_44a2dc9d825281ff3e6a05864c7cfc58 = $(`<div id="html_44a2dc9d825281ff3e6a05864c7cfc58" style="width: 100.0%; height: 100.0%;">Schloßstraße 3, 86687, Leitheim, Bayern, Deutschland</div>`)[0];
-                popup_a6396b0de054a125313247d2502c6785.setContent(html_44a2dc9d825281ff3e6a05864c7cfc58);
+                var html_a89ac8cfd2462ed5f02956d4734ff6a9 = $(`<div id="html_a89ac8cfd2462ed5f02956d4734ff6a9" style="width: 100.0%; height: 100.0%;">Schloßstraße 3, 86687, Leitheim, Bayern, Deutschland</div>`)[0];
+                popup_cb46b6e1a6fd3b724d2cd41137567a6c.setContent(html_a89ac8cfd2462ed5f02956d4734ff6a9);
             
         
 
-        marker_f6cfd35516662dc18b6332b6bb3e108e.bindPopup(popup_a6396b0de054a125313247d2502c6785)
+        marker_2981236660da117aba3fe28fb272f46b.bindPopup(popup_cb46b6e1a6fd3b724d2cd41137567a6c)
         ;
 
         
     
     
-            marker_f6cfd35516662dc18b6332b6bb3e108e.bindTooltip(
+            marker_2981236660da117aba3fe28fb272f46b.bindTooltip(
                 `<div>
                      Leitheim, Schlossensemble
                  </div>`,
-                {
-  "sticky": true,
-}
+                {"sticky": true}
             );
         
     
-            var marker_6b6586ef22bb443a9504aa304acef835 = L.marker(
-                [48.7868521, 9.0843313],
-                {
-}
-            ).addTo(map_388862a4b30f8b1d9f2d870a05a3822a);
+            var marker_3ef20469bb1eae9d78f18fd0459f9f3f = L.marker(
+                [48.1792915, 11.4061007],
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
         
     
-        var popup_d28daea6bab559bc6dcde5c426ebb205 = L.popup({
-  "maxWidth": "100%",
-});
+        var popup_dbe860fb280dd7c202cbb42c6b855054 = L.popup({"maxWidth": "100%"});
 
         
             
-                var html_608e19fff4cac5febda4b05533805810 = $(`<div id="html_608e19fff4cac5febda4b05533805810" style="width: 100.0%; height: 100.0%;">Solitude 1, 70197, Stuttgart, Baden-Württemberg, Deutschland</div>`)[0];
-                popup_d28daea6bab559bc6dcde5c426ebb205.setContent(html_608e19fff4cac5febda4b05533805810);
+                var html_21329a42ee7f8468f70cf2675dfd6087 = $(`<div id="html_21329a42ee7f8468f70cf2675dfd6087" style="width: 100.0%; height: 100.0%;">Schussenrieder Straße 4, 81249, München, Bayern, Deutschland</div>`)[0];
+                popup_dbe860fb280dd7c202cbb42c6b855054.setContent(html_21329a42ee7f8468f70cf2675dfd6087);
             
         
 
-        marker_6b6586ef22bb443a9504aa304acef835.bindPopup(popup_d28daea6bab559bc6dcde5c426ebb205)
+        marker_3ef20469bb1eae9d78f18fd0459f9f3f.bindPopup(popup_dbe860fb280dd7c202cbb42c6b855054)
         ;
 
         
     
     
-            marker_6b6586ef22bb443a9504aa304acef835.bindTooltip(
+            marker_3ef20469bb1eae9d78f18fd0459f9f3f.bindTooltip(
+                `<div>
+                     München-Lochhausen, Pfarrkirche St. Michael
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a2c27a2d3dda59c0b9607a24c1f250a2 = L.marker(
+                [47.7004633, 11.9378629],
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
+        
+    
+        var popup_ad6cc5a62a3da5aeed5a7082814b3f75 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8623ae9ecca59267164c18c800ec3c1c = $(`<div id="html_8623ae9ecca59267164c18c800ec3c1c" style="width: 100.0%; height: 100.0%;">Hagnberg 3, 83730, Fischbachau, Bayern, Deutschland</div>`)[0];
+                popup_ad6cc5a62a3da5aeed5a7082814b3f75.setContent(html_8623ae9ecca59267164c18c800ec3c1c);
+            
+        
+
+        marker_a2c27a2d3dda59c0b9607a24c1f250a2.bindPopup(popup_ad6cc5a62a3da5aeed5a7082814b3f75)
+        ;
+
+        
+    
+    
+            marker_a2c27a2d3dda59c0b9607a24c1f250a2.bindTooltip(
+                `<div>
+                     Hagnberg, Kapelle
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_adbd316e53d7c46ae59290260a61c74c = L.marker(
+                [48.7868521, 9.0843313],
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
+        
+    
+        var popup_de771bf43c8ce8e7aa49d53362ab9db4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9b8a42d307c613ecb85f20707a13c03 = $(`<div id="html_e9b8a42d307c613ecb85f20707a13c03" style="width: 100.0%; height: 100.0%;">Solitude 1, 70197, Stuttgart, Baden-Württemberg, Deutschland</div>`)[0];
+                popup_de771bf43c8ce8e7aa49d53362ab9db4.setContent(html_e9b8a42d307c613ecb85f20707a13c03);
+            
+        
+
+        marker_adbd316e53d7c46ae59290260a61c74c.bindPopup(popup_de771bf43c8ce8e7aa49d53362ab9db4)
+        ;
+
+        
+    
+    
+            marker_adbd316e53d7c46ae59290260a61c74c.bindTooltip(
                 `<div>
                      Stuttgart, Schloss Solitude
                  </div>`,
-                {
-  "sticky": true,
-}
+                {"sticky": true}
             );
         
     
-            var marker_980de9b3424db5870b6d65d8176e5833 = L.marker(
+            var marker_324b0a796b15ecef5583535a5d0ec3b3 = L.marker(
                 [53.2603246, 10.4202266],
-                {
-}
-            ).addTo(map_388862a4b30f8b1d9f2d870a05a3822a);
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
         
     
-        var popup_dbb3c03c8f7d85a3763312d7adea25ca = L.popup({
-  "maxWidth": "100%",
-});
+        var popup_1baaf5d4dc925f2865bea171d05f28b4 = L.popup({"maxWidth": "100%"});
 
         
             
-                var html_acce28dc670e62b4482e86e2b6070be0 = $(`<div id="html_acce28dc670e62b4482e86e2b6070be0" style="width: 100.0%; height: 100.0%;">Am Domänenhof, 21337, Lüneburg, Niedersachsen, Deutschland</div>`)[0];
-                popup_dbb3c03c8f7d85a3763312d7adea25ca.setContent(html_acce28dc670e62b4482e86e2b6070be0);
+                var html_0ae6b1e3e9142fa4cd7ba4e9d364bf44 = $(`<div id="html_0ae6b1e3e9142fa4cd7ba4e9d364bf44" style="width: 100.0%; height: 100.0%;">Am Domänenhof, 21337, Lüneburg, Niedersachsen, Deutschland</div>`)[0];
+                popup_1baaf5d4dc925f2865bea171d05f28b4.setContent(html_0ae6b1e3e9142fa4cd7ba4e9d364bf44);
             
         
 
-        marker_980de9b3424db5870b6d65d8176e5833.bindPopup(popup_dbb3c03c8f7d85a3763312d7adea25ca)
+        marker_324b0a796b15ecef5583535a5d0ec3b3.bindPopup(popup_1baaf5d4dc925f2865bea171d05f28b4)
         ;
 
         
     
     
-            marker_980de9b3424db5870b6d65d8176e5833.bindTooltip(
+            marker_324b0a796b15ecef5583535a5d0ec3b3.bindTooltip(
                 `<div>
                      Lüneburg, Kloster Lüne
                  </div>`,
-                {
-  "sticky": true,
-}
+                {"sticky": true}
             );
         
     
-            var marker_150a7ce738b8767b6db2b641ad61bb38 = L.marker(
+            var marker_8a1347bf4181682193171997af4340d4 = L.marker(
                 [48.5747482, 13.4663898],
-                {
-}
-            ).addTo(map_388862a4b30f8b1d9f2d870a05a3822a);
+                {}
+            ).addTo(map_11b2cb1ea6364cdceccda47a517f1f4f);
         
     
-        var popup_d5520c9e8d60b1e5591c14ba0955cbb5 = L.popup({
-  "maxWidth": "100%",
-});
+        var popup_4f1c35ec473512773648c18615cab38e = L.popup({"maxWidth": "100%"});
 
         
             
-                var html_3f5c6a7983155005412d97f20da13929 = $(`<div id="html_3f5c6a7983155005412d97f20da13929" style="width: 100.0%; height: 100.0%;">Große Messergasse 6, 94032, Passau, Bayern, Deutschland</div>`)[0];
-                popup_d5520c9e8d60b1e5591c14ba0955cbb5.setContent(html_3f5c6a7983155005412d97f20da13929);
+                var html_12e6cc00888e340dffb849fe0100b16c = $(`<div id="html_12e6cc00888e340dffb849fe0100b16c" style="width: 100.0%; height: 100.0%;">Große Messergasse 6, 94032, Passau, Bayern, Deutschland</div>`)[0];
+                popup_4f1c35ec473512773648c18615cab38e.setContent(html_12e6cc00888e340dffb849fe0100b16c);
             
         
 
-        marker_150a7ce738b8767b6db2b641ad61bb38.bindPopup(popup_d5520c9e8d60b1e5591c14ba0955cbb5)
+        marker_8a1347bf4181682193171997af4340d4.bindPopup(popup_4f1c35ec473512773648c18615cab38e)
         ;
 
         
     
     
-            marker_150a7ce738b8767b6db2b641ad61bb38.bindTooltip(
+            marker_8a1347bf4181682193171997af4340d4.bindTooltip(
                 `<div>
                      Passau, Große Messergasse 6
                  </div>`,
-                {
-  "sticky": true,
-}
+                {"sticky": true}
             );
         
 </script>
