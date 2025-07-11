@@ -30,15 +30,14 @@ The 'has part' or 'is part of' tree links are not listed here.
 Attributes or text needed:
 
   - Name
-  - Bundesland
+  - Adresse
   - Typ
-  - Image URL - Photo (first from series) (with photo caption)
+  - Photo
   - ist dokumentiert in: [Textteil]
 
 Links to:
 
  - Building
- - ?
 
 ## Photo
 
@@ -49,35 +48,38 @@ To provide the photo image for rendering and provide caption information.
   - Image URL
   - Name
   - Bildnachweis
-  - Urhebe
+  - Urheber
   - Lizenz
   - Repositorium
-
-Links to:  
 
 ## Building
 
 Attributes or text needed:
 
-  - Image URL - Photo (first from series) (with photo caption)
+  - Photo
   - Name
-  - Bundesland
+  - Adresse
   - Typ
   - ist dokumentiert in: [Textteil]
 
 Links to:  
+  - Room
+  - Room sequence/"Space sequence"
+  - Building part
 
 ## Building part
 
 Attributes or text needed:
 
-  - Image URL - Photo (first from series) (with photo caption)
+  - Photo
   - Name
   - Bundesland
   - Typ 
   - ist dokumentiert in: [Textteil]
 
 Links to:  
+  - Room
+  - Room Sequence
 
 ## Text part
 
@@ -87,37 +89,35 @@ Attributes or text needed (this is not so easy):
   - Textteil ID
   - body text
 
-Links to:  
-
 ## Room
 
   - Image URL
   - Name
   - Typ 
-  - Photo (first from series) (with photo caption)
+  - Photo 
   - ist dokumentiert in: [Textteil]
   - Date
 
 Links to:  
+  - Image cycle
+  - Painting
 
 ## Painting
 
-  - Image URL - Photo (first from series) (with photo caption)
+  - Photo
   - Name
   - hat Maler
   - Date
   - ist dokumentiert in: [Textteil]
 
-Links to:  
-
 ## Image cycle (Bildzyklus)
 
-  - Image URL - Photo (first from series) (with photo caption)
+  - Photo
   - Name
   - hat Maler
   - Date
   - ist dokumentiert in: [Textteil]
 
 Links to:
-
+  - Painting
 
