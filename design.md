@@ -30,6 +30,14 @@ Attributes or text needed:
 
 ## Photo
 
+To provide the photo image for rendering and provide caption information.
+
+  - Image URL
+  - Name
+  - Bildnachweis
+  - Urhebe
+  - Lizenz
+  - Repositorium
 
 ## Building
 
