@@ -31,7 +31,7 @@ Attributes or text needed:
 
   - Name
   - Bundesland
-  - Typ 
+  - Typ
   - Photo (first from series) (with photo caption)
   - ist dokumentiert in: [Textteil]
 
@@ -77,8 +77,11 @@ Attributes or text needed:
 
 ## Text part
 
-  - Name
-  - ist dokumentiert in: [Textteil]
+Attributes or text needed (this is not so easy):
+
+  - Header in page
+  - Textteil ID
+  - body text
 
 ## Room
 
