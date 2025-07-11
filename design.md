@@ -29,12 +29,36 @@ Attributes or text needed:
   - ist dokumentiert in: [Textteil]
 
 ## Photo
+
+
 ## Building
+
+  - Name
+  - ist dokumentiert in: [Textteil]
+
 ## Building part
+
+  - Name
+  - ist dokumentiert in: [Textteil]
+
 ## Text part
+
+  - Name
+  - ist dokumentiert in: [Textteil]
+
 ## Room
+
+  - Name
+  - ist dokumentiert in: [Textteil]
+
 ## Painting
+
+  - Name
+  - ist dokumentiert in: [Textteil]
+
 ## Image cycle (Bildzyklus)
 
+  - Name
+  - ist dokumentiert in: [Textteil]
 
 
