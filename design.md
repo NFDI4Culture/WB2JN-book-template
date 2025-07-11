@@ -37,7 +37,8 @@ Attributes or text needed:
 
 Links to:
 
- - Add
+ - Building
+ - ?
 
 ## Photo
 
