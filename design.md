@@ -32,7 +32,7 @@ Attributes or text needed:
   - Name
   - Bundesland
   - Typ
-  - Photo (first from series) (with photo caption)
+  - Image URL - Photo (first from series) (with photo caption)
   - ist dokumentiert in: [Textteil]
 
 Links to:
@@ -53,27 +53,31 @@ To provide the photo image for rendering and provide caption information.
   - Lizenz
   - Repositorium
 
+Links to:  
+
 ## Building
 
 Attributes or text needed:
 
-  - Image URL
+  - Image URL - Photo (first from series) (with photo caption)
   - Name
   - Bundesland
-  - Typ 
-  - Photo (first from series) (with photo caption)
+  - Typ
   - ist dokumentiert in: [Textteil]
+
+Links to:  
 
 ## Building part
 
 Attributes or text needed:
 
-  - Image URL
+  - Image URL - Photo (first from series) (with photo caption)
   - Name
   - Bundesland
   - Typ 
-  - Photo (first from series) (with photo caption)
   - ist dokumentiert in: [Textteil]
+
+Links to:  
 
 ## Text part
 
@@ -83,19 +87,37 @@ Attributes or text needed (this is not so easy):
   - Textteil ID
   - body text
 
+Links to:  
+
 ## Room
 
+  - Image URL
   - Name
+  - Typ 
+  - Photo (first from series) (with photo caption)
   - ist dokumentiert in: [Textteil]
+  - Date
+
+Links to:  
 
 ## Painting
 
+  - Image URL - Photo (first from series) (with photo caption)
   - Name
+  - hat Maler
+  - Date
   - ist dokumentiert in: [Textteil]
+
+Links to:  
 
 ## Image cycle (Bildzyklus)
 
+  - Image URL - Photo (first from series) (with photo caption)
   - Name
+  - hat Maler
+  - Date
   - ist dokumentiert in: [Textteil]
+
+Links to:
 
 
