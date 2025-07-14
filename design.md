@@ -4,13 +4,13 @@ We need to test out the below and see what the results would look like on a numb
 
   1. Solitude - https://www.deckenmalerei.eu/10885d10-c5b7-11e9-b6fd-d99e1ba53a95
   2. Bad Pyrmont, Schloss Pyrmont - https://www.deckenmalerei.eu/b462cec2-5ade-45da-be2e-759323274a52 
-  3. Weikersheim, Schloss - https://www.deckenmalerei.eu/6d7bc9b2-1d68-417b-acf8-43035863c91f
-  4. Aicholding, Hofmarkschloss - https://www.deckenmalerei.eu/c38d1922-cc2a-4e5f-90ad-f4c474baf2d8
-  5. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/07358bb5-b969-4a1b-93ed-289d49e854a3 
-  6. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/7c269630-f8f7-419a-82b7-73edf92bffe8
-  7. Altshausen, Landkomturei des Deutschen Ordens - https://www.deckenmalerei.eu/fa6290dc-3339-4ce6-b4ae-02017979d994 
-  8. Bad Buchau, Fürstabtei - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
-  9. Rastatt-Förch, Schloss Favorite - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
+  3. Altshausen, Landkomturei des Deutschen Ordens - https://www.deckenmalerei.eu/6d7bc9b2-1d68-417b-acf8-43035863c91f
+  4. Bad Buchau, Fürstabtei - https://www.deckenmalerei.eu/c38d1922-cc2a-4e5f-90ad-f4c474baf2d8
+  5. Rastatt-Förch, Schloss Favorite - https://www.deckenmalerei.eu/07358bb5-b969-4a1b-93ed-289d49e854a3 
+  6. Weikersheim, Schloss - https://www.deckenmalerei.eu/7c269630-f8f7-419a-82b7-73edf92bffe8
+  7. Aicholding, Hofmarkschloss - https://www.deckenmalerei.eu/fa6290dc-3339-4ce6-b4ae-02017979d994 
+  8. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
+  9. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
 
 These are all the things for which are needed as 'things' that then would each have a group of attributes. My thinking is that if we have these things and their 'has part' or 'is part of' attribute in the tree, then this allows to select them from a tree and say which things and thing attributes we want to use.
 
