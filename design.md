@@ -1,5 +1,9 @@
 # Fields needed for WB2JN
 
+![alt text](https://gitlab.com/-/project/66804787/uploads/212829095f88477709e21d4b360c4394/Unbenanntes_Diagramm-Seite-2.drawio_1_.png "Title")
+
+Diagrams: https://gitlab.com/nfdi4culture/computational-publishing-service/wb2jn/-/issues/28
+
 We need to test out the below and see what the results would look like on a number of Ensembles. The test can just be a checklist check and see if the attributes or texts exist and have data needed. After this we can do other tests. We shsould check 9 example Ensembles.
 
   1. Solitude - https://www.deckenmalerei.eu/10885d10-c5b7-11e9-b6fd-d99e1ba53a95
