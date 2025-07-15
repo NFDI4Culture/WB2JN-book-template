@@ -889,10 +889,10 @@ Links to:
 
 Links to:
   - [ ] Painting
-# 8. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
+## 8. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
 
 
-## Castle / Palace (Ensemble)
+### Castle / Palace (Ensemble)
 
 Attributes or text needed:
 
@@ -906,7 +906,7 @@ Links to:
 
  - [x] Building
 
-## Photo
+### Photo
 
 Attributes or text needed:
 
@@ -919,7 +919,7 @@ To provide the photo image for rendering and provide caption information.
   - [x] Lizenz
   - [x] Repositorium
 
-## Building https://www.deckenmalerei.eu/83b1da10-f430-492e-b918-8eadb8fd1af8
+### Building https://www.deckenmalerei.eu/83b1da10-f430-492e-b918-8eadb8fd1af8
 
 Attributes or text needed:
 
@@ -934,7 +934,7 @@ Links to:
   - [ ] Room sequence/"Space sequence"
   - [ ] Building part
 
-## Building part
+### Building part
 
 Attributes or text needed:
 
@@ -948,7 +948,7 @@ Links to:
   - [ ] Room
   - [ ] Room Sequence
 
-## Room sequence 
+### Room sequence 
 
   - [ ] Name
   - [ ] Typ 
@@ -959,7 +959,7 @@ Links to:
 Links to:  
   - [ ] Room
 
-## Text part
+### Text part
 
 Attributes or text needed (this is not so easy):
 
@@ -967,7 +967,7 @@ Attributes or text needed (this is not so easy):
   - [ ] Textteil ID
   - [ ] body text
 
-## Room https://www.deckenmalerei.eu/11f652c8-0f55-4272-9412-9d6978b0686e
+### Room https://www.deckenmalerei.eu/11f652c8-0f55-4272-9412-9d6978b0686e
 
   - [x] Name
   - [x] Typ 
@@ -979,7 +979,7 @@ Links to:
   - [ ] Image cycle
   - [x] Painting
 
-## Painting https://www.deckenmalerei.eu/95e32516-0031-467a-acc3-e0a0007a7efd
+### Painting https://www.deckenmalerei.eu/95e32516-0031-467a-acc3-e0a0007a7efd
 
   - [x] Photo
   - [x] Name
@@ -990,7 +990,7 @@ Links to:
 Links to:  
   - [x] Painting Part
 
-## Painting part https://www.deckenmalerei.eu/e45d9b2e-a890-499c-98df-97fc312eabac
+### Painting part https://www.deckenmalerei.eu/e45d9b2e-a890-499c-98df-97fc312eabac
 
   - [x] Photo
   - [x] Name
@@ -998,7 +998,7 @@ Links to:
   - [x] Date
   - [x] ist dokumentiert in: [Textteil]
 
-## Image cycle (Bildzyklus)
+### Image cycle (Bildzyklus)
 
   - [ ] Photo
   - [ ] Name
@@ -1009,10 +1009,10 @@ Links to:
 Links to:
   - [ ] Painting
 
-# 9. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
+## 9. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
 
 
-## Castle / Palace (Ensemble)
+### Castle / Palace (Ensemble)
 
 Attributes or text needed:
 
@@ -1026,7 +1026,7 @@ Links to:
 
  - [x] Building
 
-## Photo
+### Photo
 
 Attributes or text needed:
 
@@ -1039,7 +1039,7 @@ To provide the photo image for rendering and provide caption information.
   - [x] Lizenz
   - [x] Repositorium
 
-## Building https://www.deckenmalerei.eu/79d04660-c57c-11e9-a249-1d82ad4f6e4d
+### Building https://www.deckenmalerei.eu/79d04660-c57c-11e9-a249-1d82ad4f6e4d
 
 Attributes or text needed:
 
@@ -1054,7 +1054,7 @@ Links to:
   - [ ] Room sequence/"Space sequence"
   - [ ] Building part
 
-## Building part
+### Building part
 
 Attributes or text needed:
 
@@ -1068,7 +1068,7 @@ Links to:
   - [ ] Room
   - [ ] Room Sequence
 
-## Room sequence 
+### Room sequence 
 
   - [ ] Name
   - [ ] Typ 
@@ -1079,7 +1079,7 @@ Links to:
 Links to:  
   - [ ] Room
 
-## Text part
+### Text part
 
 Attributes or text needed (this is not so easy):
 
@@ -1087,7 +1087,7 @@ Attributes or text needed (this is not so easy):
   - [ ] Textteil ID
   - [ ] body text
 
-## Room https://www.deckenmalerei.eu/9d83cd90-c57f-11e9-a249-1d82ad4f6e4d
+### Room https://www.deckenmalerei.eu/9d83cd90-c57f-11e9-a249-1d82ad4f6e4d
 
   - [x] Name
   - [x] Typ 
@@ -1099,7 +1099,7 @@ Links to:
   - [ ] Image cycle
   - [x] Painting
 
-## Painting https://www.deckenmalerei.eu/dac0cc9f-0b61-4e4e-8bba-510e053dc978
+### Painting https://www.deckenmalerei.eu/dac0cc9f-0b61-4e4e-8bba-510e053dc978
 
   - [x] Photo
   - [x] Name
