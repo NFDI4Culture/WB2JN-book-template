@@ -605,7 +605,7 @@ Links to:
   - [x] Room sequence/"Space sequence"
   - [ ] Building part
 
-### Building part
+### Building part 
 
 Attributes or text needed:
 
@@ -619,7 +619,7 @@ Links to:
   - [ ] Room
   - [ ] Room Sequence
 
-### Room sequence 
+### Room sequence https://www.deckenmalerei.eu/153d136e-4fac-440a-a52c-61a5b078c0a4
 
   - [x] Name
   - [x] Typ 
