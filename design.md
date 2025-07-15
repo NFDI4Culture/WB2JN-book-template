@@ -114,6 +114,14 @@ Links to:
   - Date
   - ist dokumentiert in: [Textteil]
 
+## Painting part 
+
+  - Photo
+  - Name
+  - hat Maler
+  - Date
+  - ist dokumentiert in: [Textteil]
+
 ## Image cycle (Bildzyklus)
 
   - Photo
@@ -881,53 +889,52 @@ Links to:
 
 Links to:
   - [ ] Painting
+# 8. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
 
-## 8. Egloffstein, Schlosskirche St. Bartholomäus - https://www.deckenmalerei.eu/5dc41007-0057-4904-a126-6f36aaef086f 
 
-
-### Castle / Palace (Ensemble)
+## Castle / Palace (Ensemble)
 
 Attributes or text needed:
 
-  - [ ] Name
-  - [ ] Adresse
-  - [ ] Typ
-  - [ ] Photo
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] Name
+  - [x] Adresse
+  - [x] Typ
+  - [x] Photo
+  - [x] ist dokumentiert in: [Textteil]
 
 Links to:
 
- - [ ] Building
+ - [x] Building
 
-### Photo
+## Photo
 
 Attributes or text needed:
 
 To provide the photo image for rendering and provide caption information.
 
-  - [ ] Image URL
-  - [ ] Name
-  - [ ] Bildnachweis
-  - [ ] Urheber
-  - [ ] Lizenz
-  - [ ] Repositorium
+  - [x] Image URL
+  - [x] Name
+  - [x] Bildnachweis
+  - [x] Urheber
+  - [x] Lizenz
+  - [x] Repositorium
 
-### Building
+## Building https://www.deckenmalerei.eu/83b1da10-f430-492e-b918-8eadb8fd1af8
 
 Attributes or text needed:
 
-  - [ ] Photo
-  - [ ] Name
-  - [ ] Adresse
-  - [ ] Typ
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] Photo
+  - [x] Name
+  - [x] Adresse
+  - [x] Typ
+  - [x] ist dokumentiert in: [Textteil]
 
 Links to:  
   - [ ] Room
   - [ ] Room sequence/"Space sequence"
   - [ ] Building part
 
-### Building part
+## Building part
 
 Attributes or text needed:
 
@@ -941,7 +948,7 @@ Links to:
   - [ ] Room
   - [ ] Room Sequence
 
-### Room sequence 
+## Room sequence 
 
   - [ ] Name
   - [ ] Typ 
@@ -952,7 +959,7 @@ Links to:
 Links to:  
   - [ ] Room
 
-### Text part
+## Text part
 
 Attributes or text needed (this is not so easy):
 
@@ -960,28 +967,38 @@ Attributes or text needed (this is not so easy):
   - [ ] Textteil ID
   - [ ] body text
 
-### Room
+## Room https://www.deckenmalerei.eu/11f652c8-0f55-4272-9412-9d6978b0686e
 
-  - [ ] Image URL
-  - [ ] Name
-  - [ ] Typ 
-  - [ ] Photo 
-  - [ ] ist dokumentiert in: [Textteil]
-  - [ ] Date
+  - [x] Name
+  - [x] Typ 
+  - [x] Photo 
+  - [x] ist dokumentiert in: [Textteil]
+  - [x] Date
 
 Links to:  
   - [ ] Image cycle
-  - [ ] Painting
+  - [x] Painting
 
-### Painting
+## Painting https://www.deckenmalerei.eu/95e32516-0031-467a-acc3-e0a0007a7efd
 
-  - [ ] Photo
-  - [ ] Name
+  - [x] Photo
+  - [x] Name
   - [ ] hat Maler
-  - [ ] Date
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] Date
+  - [x] ist dokumentiert in: [Textteil]
 
-### Image cycle (Bildzyklus)
+Links to:  
+  - [x] Painting Part
+
+## Painting part https://www.deckenmalerei.eu/e45d9b2e-a890-499c-98df-97fc312eabac
+
+  - [x] Photo
+  - [x] Name
+  - [x] hat Maler
+  - [x] Date
+  - [x] ist dokumentiert in: [Textteil]
+
+## Image cycle (Bildzyklus)
 
   - [ ] Photo
   - [ ] Name
@@ -992,52 +1009,52 @@ Links to:
 Links to:
   - [ ] Painting
 
-## 9. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
+# 9. Gundelfingen, Münzmühle - https://www.deckenmalerei.eu/0db9d590-c57c-11e9-a249-1d82ad4f6e4d 
 
 
-### Castle / Palace (Ensemble)
+## Castle / Palace (Ensemble)
 
 Attributes or text needed:
 
-  - [ ] Name
-  - [ ] Adresse
-  - [ ] Typ
-  - [ ] Photo
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] Name
+  - [x] Adresse
+  - [x] Typ
+  - [x] Photo
+  - [x] ist dokumentiert in: [Textteil]
 
 Links to:
 
- - [ ] Building
+ - [x] Building
 
-### Photo
+## Photo
 
 Attributes or text needed:
 
 To provide the photo image for rendering and provide caption information.
 
-  - [ ] Image URL
-  - [ ] Name
-  - [ ] Bildnachweis
-  - [ ] Urheber
-  - [ ] Lizenz
-  - [ ] Repositorium
+  - [x] Image URL
+  - [x] Name
+  - [x] Bildnachweis
+  - [x] Urheber
+  - [x] Lizenz
+  - [x] Repositorium
 
-### Building
+## Building https://www.deckenmalerei.eu/79d04660-c57c-11e9-a249-1d82ad4f6e4d
 
 Attributes or text needed:
 
   - [ ] Photo
-  - [ ] Name
-  - [ ] Adresse
-  - [ ] Typ
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] Name
+  - [x] Adresse
+  - [x] Typ
+  - [x] ist dokumentiert in: [Textteil]
 
 Links to:  
-  - [ ] Room
+  - [x] Room
   - [ ] Room sequence/"Space sequence"
   - [ ] Building part
 
-### Building part
+## Building part
 
 Attributes or text needed:
 
@@ -1051,7 +1068,7 @@ Links to:
   - [ ] Room
   - [ ] Room Sequence
 
-### Room sequence 
+## Room sequence 
 
   - [ ] Name
   - [ ] Typ 
@@ -1062,7 +1079,7 @@ Links to:
 Links to:  
   - [ ] Room
 
-### Text part
+## Text part
 
 Attributes or text needed (this is not so easy):
 
@@ -1070,28 +1087,27 @@ Attributes or text needed (this is not so easy):
   - [ ] Textteil ID
   - [ ] body text
 
-### Room
+## Room https://www.deckenmalerei.eu/9d83cd90-c57f-11e9-a249-1d82ad4f6e4d
 
-  - [ ] Image URL
-  - [ ] Name
-  - [ ] Typ 
-  - [ ] Photo 
-  - [ ] ist dokumentiert in: [Textteil]
-  - [ ] Date
+  - [x] Name
+  - [x] Typ 
+  - [x] Photo 
+  - [x] ist dokumentiert in: [Textteil]
+  - [x] Date
 
 Links to:  
   - [ ] Image cycle
-  - [ ] Painting
+  - [x] Painting
 
-### Painting
+## Painting https://www.deckenmalerei.eu/dac0cc9f-0b61-4e4e-8bba-510e053dc978
 
-  - [ ] Photo
-  - [ ] Name
+  - [x] Photo
+  - [x] Name
   - [ ] hat Maler
   - [ ] Date
-  - [ ] ist dokumentiert in: [Textteil]
+  - [x] ist dokumentiert in: [Textteil]
 
-### Image cycle (Bildzyklus)
+## Image cycle (Bildzyklus)
 
   - [ ] Photo
   - [ ] Name
@@ -1101,5 +1117,4 @@ Links to:
 
 Links to:
   - [ ] Painting
-
 
