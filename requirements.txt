@@ -4,3 +4,4 @@ prettyprint
 quarto
 geopy
 folium
+SPARQLWrapper

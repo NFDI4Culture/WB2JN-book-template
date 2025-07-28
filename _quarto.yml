@@ -15,10 +15,13 @@ book:
     - index.qmd
     - artworks_by_room.ipynb
     - artworks_on_map.ipynb
+    - artworks_with_lightbox.ipynb
+    - artworks_with_lightbox_with_code.ipynb
   #  - intro.qmd
   #  - summary.qmd
   #  - references.qmd
-  downloads: [pdf]
+  downloads: [pdf, epub, docx]
+
 
 
 bibliography: references.bib
@@ -26,7 +29,9 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - solar
+      dark: solar
+      light: default
+
   pdf:
     documentclass: scrreprt
     include-in-header: 
@@ -41,5 +46,6 @@ format:
       text: |
         \printindex
     #keep-tex: true
-
+  epub: default
+  docx: default
 
