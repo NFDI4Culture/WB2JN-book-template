@@ -13,10 +13,14 @@ book:
   date: today
   chapters:
     - index.qmd
-    - artworks_by_room.ipynb
-    - artworks_on_map.ipynb
-    - artworks_with_lightbox.ipynb
-    - artworks_with_lightbox_with_code.ipynb
+  #  - artworks_by_room.ipynb
+  #  - artworks_on_map.ipynb
+  #  - artworks_with_lightbox.ipynb
+  #  - artworks_with_lightbox_with_code.ipynb
+  #  - testing_file.ipynb
+    - section1.ipynb
+    - section2.ipynb
+    - section3.ipynb
   #  - intro.qmd
   #  - summary.qmd
   #  - references.qmd
